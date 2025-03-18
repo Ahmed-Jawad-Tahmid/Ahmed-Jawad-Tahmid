@@ -99,9 +99,4 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Jawad-Tahmid&locale=en&layout=compact&theme=dark&hide_border=true" height="157" alt="Top Languages" />
-</div>
-
-
 ###
