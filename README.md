@@ -101,8 +101,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmed-Jawad-Tahmid&locale=en&layout=compact&theme=dark&hide_border=true" height="157" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Jawad-Tahmid&theme=radical&hide_border=true" height="155" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Jawad-Tahmid&show_icons=true&theme=dark&hide_border=true" height="157" alt="GitHub Stats" />
 </div>
 
 
