@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm a third-year Computer Science student at the University of Calgary, passionate about software engineering. In my free time, I'm exploring machine learning and cloud computing. Always open to collaboration—feel free to reach out!</p>
+<p align="left">I'm a final-year Computer Science student at the University of Calgary, passionate about software engineering. In my free time, I'm exploring machine learning and cloud computing. Always open to collaboration—feel free to reach out!</p>
 
 ###
 
