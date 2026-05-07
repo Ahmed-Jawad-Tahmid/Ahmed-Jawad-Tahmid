@@ -60,34 +60,46 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express logo" />
 </div>
+<h3 align="left">Databases & Cloud</h3>
 
-<p align="left">- Databases</p>
-
-<div align="left">
+<p align="left">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="mysql logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql logo" />
-  <img width="12" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb logo" />
-</div>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" alt="aws logo" />
+</p>
 
-<p align="left">- Machine Learning</p>
+<h3 align="left">Machine Learning & Data</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow logo" />
-  <img width="12" />
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy logo" />
-  <img width="12" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="tensorflow logo" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="pytorch logo" />
-</div>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit learn logo" />
+</p>
 
-<p align="left">- Version Control</p>
+<h3 align="left">DevOps & Tools</h3>
 
-<div align="left">
+<p align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="git logo" />
-</div>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="gitlab logo" />
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="40" alt="github actions logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker logo" />
+</p>
+
 
 <h2 align="left">Stats</h2>
 
